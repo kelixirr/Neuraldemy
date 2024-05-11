@@ -1,4 +1,4 @@
-# Welcome to the Neuraldemy Repository! 🧠
+# Neuraldemy Repository - Machine Learning And Deep Learning Tutorials For Beginners 🧠
 
 Discover the world of machine learning and deep learning with our dedicated Neuraldemy repository, designed exclusively for members enrolled in our tutorials. If you're new to Neuraldemy, start your AI learning journey by [joining our platform](https://neuraldemy.com/subscription) through the Neuraldemy Subscription.
 
