@@ -20,6 +20,24 @@ This repository contains all our free resources related to machine learning crea
 
 3. **ML Projects**: This folder has some ML projects that you can use to practice and learn ML. However, most of the projects are in another repository (AI Projects).
 
+### Premium Tutorials
+
+1. https://neuraldemy.com/singular-value-decomposition/
+2. https://neuraldemy.com/in-depth-linear-regression-concept-and-application/
+3. https://neuraldemy.com/principal-components-analysis/
+4. https://neuraldemy.com/linear-discriminant-analysis/
+5. https://neuraldemy.com/in-depth-naive-bayes-concept-and-application/
+6. https://neuraldemy.com/in-depth-logistic-regression/
+7. https://neuraldemy.com/support-vector-machines/
+8. https://neuraldemy.com/in-depth-decision-trees-concept-and-application/
+9. https://neuraldemy.com/stochastic-gradient-descent/
+10. https://neuraldemy.com/in-depth-random-forests-ensemble-learning-concept-and-application/
+11. https://neuraldemy.com/nearest-neighbors-concept/
+12. https://neuraldemy.com/shop/clustering-and-outlier-detection/
+13. https://neuraldemy.com/gaussian-mixture-models/
+14. https://neuraldemy.com/deep-learning-introduction-to-anns/
+15. https://neuraldemy.com/convolutional-neural-networks-cnns/
+
 ### Ask Doubts
 
 If you are stuck or want to ask something, feel free to visit our website and raise your query in the forum. 
