@@ -40,4 +40,4 @@ This repository contains all our free resources related to machine learning crea
 
 ### Ask Doubts
 
-If you are stuck or want to ask something, feel free to visit our website and raise your query in the forum. 
+If you are stuck or want to ask something, feel free to visit our community https://neuraldemy.com/community/ and raise your query in the forum. 
