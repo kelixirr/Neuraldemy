@@ -38,6 +38,8 @@ This repository contains all our free resources related to machine learning crea
 14. https://neuraldemy.com/deep-learning-introduction-to-anns/
 15. https://neuraldemy.com/convolutional-neural-networks-cnns/
 
+NLP tutorial is coming soon 🔥
+
 ### Ask Doubts
 
 If you are stuck or want to ask something, feel free to visit our community https://neuraldemy.com/community/ and raise your query in the forum. 
