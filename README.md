@@ -40,6 +40,9 @@ This repository contains all our free resources related to machine learning crea
 
 NLP tutorial is coming soon 🔥
 
+### ML Projects
+Practice machine learning and build portfolio: https://github.com/kelixirr/AI-Projects
+
 ### Ask Doubts
 
 If you are stuck or want to ask something, feel free to visit our community https://neuraldemy.com/community/ and raise your query in the forum. 
