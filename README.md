@@ -47,3 +47,7 @@ Practice machine learning and build portfolio: https://github.com/kelixirr/AI-Pr
 ### Ask Doubts
 
 If you are stuck or want to ask something, feel free to visit our community https://neuraldemy.com/community/ and raise your query in the forum. 
+
+### Extra Resources
+
+Learn The Basics of Tensorflow 2: https://ryancheunggit.gitbooks.io/tfbook/content/
