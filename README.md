@@ -42,7 +42,7 @@ This repository contains all our free resources related to machine learning crea
 NLP tutorial is coming soon 🔥
 
 ### ML Projects
-Practice machine learning and build portfolio: https://github.com/kelixirr/AI-Projects
+Practice machine learning and build a portfolio: https://github.com/kelixirr/AI-Projects
 
 ### Ask Doubts
 
@@ -51,3 +51,4 @@ If you are stuck or want to ask something, feel free to visit our community http
 ### Extra Resources
 
 Learn The Basics of Tensorflow 2: https://ryancheunggit.gitbooks.io/tfbook/content/
+Machine learning papers: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap and https://github.com/terryum/awesome-deep-learning-papers
