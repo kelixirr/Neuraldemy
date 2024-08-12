@@ -1,7 +1,4 @@
-import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
-sns.set_theme()
 from scipy import stats
 
 def confidence_interval(data, confidence_level, distribution = "t-distribution"):
